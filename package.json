@@ -1,0 +1,27 @@
+{
+  "name": "2022_nov_curso_profesional_js",
+  "version": "1.0.0",
+  "description": "A course to learn advanced JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_profesional_JS.git"
+  },
+  "keywords": [
+    "Course",
+    "Javascript"
+  ],
+  "author": "Luis Chavarria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_profesional_JS/issues"
+  },
+  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_profesional_JS#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
